@@ -1,5 +1,6 @@
 ---
 title: This is only a test
+permalink: /
 ---
 # This is only a test
 
